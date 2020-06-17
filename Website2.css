@@ -2,13 +2,14 @@ h2{
     color: rgb(66, 36, 202)
 }
 p{
-    color: rgb(253, 255, 225);
-background-color:rgb(236, 147, 199)}
-img{
+    color:  rgb(66, 36, 202)
+}                                   
+background-color:#FFFBD6
+ img{
     max-width: 55%;
     Height: 38%;
-}
+ }  
 body{
     text-align: center;
-    background-color: #8ffff6;
+    background-color: #f0bdf7;
 }

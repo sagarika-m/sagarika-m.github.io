@@ -6,5 +6,8 @@ p{
 background-color:rgb(0, 225, 255)}
 img{
     max-width: 55%;
-    Height: 50%;
+    Height: 38%;
+}
+body{
+    text-align: center;
 }

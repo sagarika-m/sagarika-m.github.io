@@ -5,8 +5,13 @@ p{
     color: rgb(27, 0, 145);
 }
 .img1{
-    max-width: 1%;
-    Height: 1%;   
+    max-width: 33.33%;   
+}
+.img2{
+    max-width: 33.33%;
+}
+.img3{
+    max-width: 33.33%;
 }
 body{
     text-align: center;

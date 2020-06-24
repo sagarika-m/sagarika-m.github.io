@@ -3,16 +3,33 @@ h2{
 }
 p{
     color: rgb(27, 0, 145);
-background-color  rgb(253, 255, 225);
+background-color  
 }
 img{
     max-width: 55%;
     Height: 38%;
+    
 }
 body{
     text-align: center;
-    background-color: rgb(247, 187, 222);
+    background-color: rgb(240, 241, 220);
+}
 }
 h1{
     color: rgb(27, 0, 145);
+}
+.container{
+    width: 85%;
+    margin: 0 auto;
+}
+nav{
+    float: right;
+}
+nav ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+nav ul{
+    display: inline-block;
 }

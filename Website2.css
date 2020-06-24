@@ -3,12 +3,10 @@ h2{
 }
 p{
     color: rgb(27, 0, 145);
-background-color  
 }
-img{
-    max-width: 55%;
-    Height: 38%;
-    
+.img1{
+    max-width: 1%;
+    Height: 1%;   
 }
 body{
     text-align: center;
@@ -17,6 +15,7 @@ body{
 }
 h1{
     color: rgb(27, 0, 145);
+    
 }
 .container{
     width: 85%;
@@ -33,3 +32,9 @@ nav ul{
 nav ul{
     display: inline-block;
 }
+header::after {     
+    content: '';
+    display: table;
+    clear: both;
+  }   
+  

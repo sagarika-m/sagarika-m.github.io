@@ -3,6 +3,8 @@ h2{
 }
 p{
     color: rgb(27, 0, 145);
+    font-size: larger;
+    font-family: sans-serif;
 }
 .img1{
     max-width: 33.33%;
@@ -14,6 +16,14 @@ p{
 }
 .img3{
     max-height: 416px;
+}
+.img4{
+    max-width: 33.33%;
+    max-height: 533px;
+}
+.img5{
+    max-width: 33.33%;
+    max-height: 533px;
 }
 body{
     text-align: center;

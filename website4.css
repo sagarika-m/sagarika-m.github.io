@@ -14,3 +14,24 @@ ul{
     font-size: larger;
     font-family: sans-serif; 
 }
+header::after {     
+    content: '';
+    display: table;
+    clear: both;
+  }  
+  .row{
+    display: flex;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .img7{
+      max-height: 500px;
+  }
+  

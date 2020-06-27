@@ -17,14 +17,7 @@ p{
 .img3{
     max-height: 416px;
 }
-.img4{
-    max-width: 33.33%;
-    max-height: 533px;
-}
-.img5{
-    max-width: 33.33%;
-    max-height: 533px;
-}
+
 body{
     text-align: center;
     background-color: rgb(240, 241, 220);

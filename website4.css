@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(240, 241, 220);
+    text-align: left;
+}
+p{
+    color: rgb(27, 0, 145);
+    font-size: larger;
+    font-family: sans-serif;
+}
+h1{text-align: center;
+}
+ul{
+    color: rgb(27, 0, 145);
+    font-size: larger;
+    font-family: sans-serif; 
+}

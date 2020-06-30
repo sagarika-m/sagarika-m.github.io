@@ -9,3 +9,26 @@ p{
 }
 h1{text-align: center;
 }
+header::after {     
+    content: '';
+    display: table;
+    clear: both;
+  }  
+  .row{
+    display: flex;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .img10{
+      max-width: 615px;
+  }
+  .img12{
+      max-height: 410px;
+  }

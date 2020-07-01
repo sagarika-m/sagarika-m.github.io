@@ -37,5 +37,26 @@ header::after {
       max-height: 610px;
   }
   .img6{
-      max-height: 445px;
+      max-height: 440px;
   }
+  .container{
+    width: 85%;
+    margin: 0 auto;
+}
+nav{
+    float: right;
+}
+nav ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 10px;
+}
+ul{
+    color: rgb(27, 0, 145);
+    font-size: large;
+    font-family: sans-serif; 
+}

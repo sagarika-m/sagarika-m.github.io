@@ -42,6 +42,12 @@ nav li{
     display: inline-block;
     margin-left: 10px;
 }
+ul{
+    color: rgb(27, 0, 145);
+    font-size: large;
+    font-family: sans-serif; 
+}
+
 header::after {     
     content: '';
     display: table;

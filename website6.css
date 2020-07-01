@@ -1,13 +1,15 @@
-body{
-    background-color: rgb(240, 241, 220);
-    text-align: left;
-}
-p{
+
+p1{
     color: rgb(27, 0, 145);
     font-size: larger;
     font-family: sans-serif;
+    text-align: left;
 }
-h1{text-align: center;
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(240, 241, 220);
 }
 header::after {     
     content: '';
@@ -26,11 +28,11 @@ header::after {
     flex: 33.33%;
     padding: 5px;
   }
-  .img10{
-      max-width: 615px;
+  .img14{
+      max-height: 400px;
   }
-  .img12{
-      max-height: 410px;
+  .img15{
+      max-height: 400px;
   }
   .container{
     width: 85%;
